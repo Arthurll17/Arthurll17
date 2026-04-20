@@ -40,4 +40,4 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ---
 
-💡 *"Disciplina hoje, liberdade amanhã."*
+💡 *"while(alive) { learn(); }"*
