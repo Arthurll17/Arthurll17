@@ -9,6 +9,7 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em projetos reais.  
 Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades todos os dias.
+Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e desenvolver soluções práticas
 
 ---
 
