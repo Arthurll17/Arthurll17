@@ -21,9 +21,10 @@ Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades tod
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur117&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur117&layout=compact&theme=tokyonight)
+!<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur117&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur117&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
