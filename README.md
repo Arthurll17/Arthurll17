@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e programação no geral | Aprendizado contínuo.
+Sou apaixonado por tecnologia e programação no geral! | Aprendizado contínuo.
 
 ---
 
