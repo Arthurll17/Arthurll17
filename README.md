@@ -33,7 +33,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 - 🔐 Tela de Login (HTML + CSS)
 - ⌚ Relógio Digital (Python)  
----
+- ☕Grão Finale, enciclopédia do café (HTML)
 
 ## 👀 Contador de visitas
 ![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
