@@ -32,7 +32,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 ## 📌 Projetos em destaque
 
 - 🔐 Tela de Login (HTML + CSS)
-  
+- ⌚ Relógio Digital (Python)  
 ---
 
 ## 👀 Contador de visitas
