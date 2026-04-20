@@ -14,7 +14,7 @@ Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades tod
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 
 ---
@@ -31,9 +31,7 @@ Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades tod
 ## 📌 Projetos em destaque
 
 - 🔐 Tela de Login (HTML + CSS)
-- 📋 To-Do List (JavaScript)
-- 🌐 Portfólio pessoal
-
+  
 ---
 
 ## 👀 Contador de visitas
