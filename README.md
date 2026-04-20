@@ -1,23 +1,43 @@
-# 👨‍💻 Arthur Leance Lima
+# 👋 Olá! Eu sou o Arthur Leance
 
-💻 Professor de informática | Desenvolvedor em evolução | Tech 
+💻 Desenvolvedor em evolução  
+👨‍🏫 Professor de informática  
+🚀 Criando projetos e evoluindo todos os dias  
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado por tecnologia e programação no geral! | Aprendizado contínuo.
+Sou um desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em projetos reais.  
+Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades todos os dias.
 
 ---
 
-## 💻 Linguagens e Tecnologias
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-</div>
+## 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" />
+</p>
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur117&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur117&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔐 Tela de Login (HTML + CSS)
+- 📋 To-Do List (JavaScript)
+- 🌐 Portfólio pessoal
+
+---
+
+## 👀 Contador de visitas
+![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
+
+---
+
+💡 *"Disciplina hoje, liberdade amanhã."*
