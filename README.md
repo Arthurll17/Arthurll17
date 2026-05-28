@@ -28,19 +28,11 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurll17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arthurll17's" /> <br>
 
-<hr>
-
-## 🐍 My Contributions
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Arthurll17}/{Arthurll17}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Arthurll17}/{Arthurll17}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{Arthurll17}/{Arthurll17}/output/github-contribution-grid-snake.svg" />
-  </picture>
+<div>
+<a href="https://github.com/Arthurll17">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurll17&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurll17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<hr>
-
 
 
 ## 📌 Projetos em destaque
