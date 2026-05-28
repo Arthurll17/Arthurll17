@@ -30,8 +30,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurll17&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&locale=en" alt="Arthurll17 Most Used Languages" />
-</div>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurll17&theme=transparent&layout=compact&hide=css&langs_count=8&border_radius=10&locale=en" alt="Arthurll17's Most Used Languages" />
 
 <hr>
 
