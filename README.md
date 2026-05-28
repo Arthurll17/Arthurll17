@@ -26,7 +26,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" /> <br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
 </div>
 
 <hr>
@@ -41,17 +41,6 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 ## 👀 Contador de visitas
 ![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
 
-🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
 
 ---
 
