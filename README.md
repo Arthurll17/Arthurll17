@@ -43,7 +43,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 </div>
 
 <hr>
-<hr>
+
 
 ## 📌 Projetos em destaque
 
