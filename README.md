@@ -24,7 +24,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 <br>
 
-<div align=center>
+
 
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurll17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arthurll17's" /> <br>
 <hr>
