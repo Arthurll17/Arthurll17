@@ -26,7 +26,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 <div align=center>
 
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" /> <br>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arthurll17's" /> <br>
 
 
 
