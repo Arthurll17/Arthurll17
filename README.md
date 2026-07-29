@@ -22,7 +22,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ## Contact me 📞
 <a href="https://instagram.com/arthur_leance" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href=["https://instagram.com/arthur_leance](https://www.tiktok.com/@arthurleancelima)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 📌 Projetos em destaque
 
