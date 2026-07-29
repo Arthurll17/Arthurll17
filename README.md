@@ -20,14 +20,9 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ---
 
-## ⚡ Stats
+## Contact me 📞
+<a href="https://instagram.com/arthur_leance" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-<br>
-
-
-
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurll17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Arthurll17's" /> <br>
-<hr>
 
 ## 📌 Projetos em destaque
 
