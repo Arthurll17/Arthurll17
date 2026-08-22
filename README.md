@@ -18,12 +18,11 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,vscode,github,git,figma,gmail,discord,windows" />
 </p>
 
-### 🔨 Em construção
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" />
   🔨
 </p>
----
 
 ## 📞Contact me 
 <a href="https://instagram.com/arthur_leance" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
