@@ -36,18 +36,19 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
+
 ## 📞 Contact me
 
 <a href="https://instagram.com/arthur_leance" target="_blank">
