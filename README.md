@@ -23,7 +23,19 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
   <img src="https://em-content.zobj.net/source/apple/391/hammer_1f528.png" width="40" />
 </p>
 
-🔨 <strong>C# em construção...</strong>
+## 📌 Projetos em destaque
+
+- 🔐 Tela de Login — HTML + CSS
+- ⌚ Relógio Digital — Python
+- ☕ Grão Finale — Enciclopédia do Café
+
+---
+
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -35,17 +47,6 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ---
 
-## 📌 Projetos em destaque
-
-- 🔐 Tela de Login (HTML + CSS)
-- ⌚ Relógio Digital (Python)
-- ☕ Grão Finale — Enciclopédia do Café (HTML)
-
----
-
-## 🐍 Minhas contribuições
-
-![Snake animation](https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg)
 ## 👀 Contador de visitas
 
 ![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
