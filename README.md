@@ -31,7 +31,6 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ---
 
-## 🐍 Minhas contribuições
 
 ## 🐍 Minhas contribuições
 
