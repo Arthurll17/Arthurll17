@@ -33,11 +33,11 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ## 🐍 Minhas contribuições
 
+## 🐍 Minhas contribuições
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 ## 📞 Contact me
 
