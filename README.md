@@ -43,6 +43,9 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ---
 
+## 🐍 Minhas contribuições
+
+![Snake animation](https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg)
 ## 👀 Contador de visitas
 
 ![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
