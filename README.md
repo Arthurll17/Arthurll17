@@ -21,7 +21,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 ### 🔨 Em construção
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" />
-  🔨 <strong>C# — em aprendizado</strong>
+  🔨
 </p>
 ---
 
