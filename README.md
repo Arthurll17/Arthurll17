@@ -30,23 +30,13 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 - ☕ Grão Finale — Enciclopédia do Café
 
 ---
+
+## 🐍 Minhas contribuições
+
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 📞 Contact me
