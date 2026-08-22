@@ -30,9 +30,6 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 - ☕ Grão Finale — Enciclopédia do Café
 
 ---
-
-## 🐍 Minhas contribuições
-
 ## 🐍 Minhas contribuições
 
 <p align="center">
