@@ -15,7 +15,7 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,vscode,github,git,figma,gmail,discord,windows,claude" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,vscode,github,git,figma,gmail,discord,windows" />
 </p>
 
 ---
