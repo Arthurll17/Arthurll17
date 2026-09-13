@@ -18,10 +18,8 @@ Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,vscode,github,git,figma,gmail,discord,windows" />
-  <img src="https://skillicons.dev/icons?i=cs" width="48" />
-  <img src="https://em-content.zobj.net/source/apple/391/hammer_1f528.png" width="40" />
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,github,git,figma" />
+
 
 ## 📌 Projetos em destaque
 
