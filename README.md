@@ -1,53 +1,85 @@
-# 👋 Olá! Eu sou o Arthur Leance
+ <!-- Profile README for Arthurll17 -->
 
-💻 Desenvolvedor em evolução  
-👨‍🏫 Professor de informática  
-🚀 Criando projetos e evoluindo todos os dias  
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:1D4ED8&height=190&section=header&text=Arthur%20Leance&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn" />
 
-## 🚀 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Developer;Building+web+applications;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js" />
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em projetos reais.  
-Atualmente estudo, pratico e crio soluções para evoluir minhas habilidades todos os dias.
-
-Uso a tecnologia e a programação para resolver problemas, estudar, divulgar e desenvolver soluções práticas.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## About
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,bootstrap,github,git,figma" />
+Software Developer focused on building web applications and digital solutions.
 
+I work with modern development technologies, emphasizing maintainable code, application performance and practical problem-solving.
 
-## 📌 Projetos em destaque
-
-- 💵 Vallio
-- 🙎 Portifólio
-- ☕ Grão Finale — Enciclopédia do Café
+Always exploring new technologies and improving my engineering skills.
 
 ---
 
+## Technologies & Tools
 
-## 🐍 Minhas contribuições
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arthurll17/Arthurll17/output/github-contribution-grid-snake.svg" />
-</p>
+### Languages
 
-## 📞 Contact me
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs" />
 
-<a href="https://instagram.com/arthur_leance" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,windows" />
+
+</div>
 
 ---
 
-## 👀 Contador de visitas
+## Featured Projects
 
-![](https://komarev.com/ghpvc/?username=Arthur117&color=blue)
+| Project | Description |
+|---|---|
+| **Vallio** | Price comparison platform for online marketplaces. |
+| **Encaixa** | Platform focused on matching professional profiles with job opportunities. |
+| **Portfolio** | Personal portfolio and development projects. |
 
 ---
 
-💡 *"while(alive) { learn(); }"*
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arthurll17&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurll17&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Arthurll17&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurll17&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0D1117&height=100&section=footer" />
+
+**Building software. Solving problems. Evolving continuously.**
+
+</div>
